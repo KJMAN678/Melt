@@ -1,4 +1,4 @@
-# elt
+# melt
 python の melt() でグラフ化しやすいデータに加工してみた
 
 import pandas as pd
